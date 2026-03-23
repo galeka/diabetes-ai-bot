@@ -160,19 +160,12 @@ Bot ini hanya untuk keperluan edukasi.
 - Generator laporan dokter (PDF)
 - Integrasi Mobile App
 - Fine-tuned medical AI model
-
-### 💰 Ide Monetisasi
-- Chatbot SaaS untuk keperluan klinik
-- Asisten kesehatan AI berlangganan (Subscription)
-- Service API untuk aplikasi layanan kesehatan
-- Produk digital (Template + sistem Bot)
-- Gumroad package
-
+  
 ---
 
 ### 👨‍💻 Pembuat
-**Galih Eka Putra**
-Tech Support Manager | AI Builder | Automation Enthusiast
+**Galeka**
+AI Builder | Automation Enthusiast
 
 ### ⭐ Dukungan
 Jika proyek ini membantu:
@@ -322,18 +315,11 @@ This bot is for educational purposes only.
 - Mobile app integration
 - Fine-tuned medical AI model
 
-### 💰 Monetization Ideas
-- SaaS chatbot for clinics
-- Subscription AI health assistant
-- API service for healthcare apps
-- Digital product (template + bot system)
-- Gumroad package
-
 ---
 
 ### 👨‍💻 Author
-**Galih Eka Putra**
-Tech Support Manager | AI Builder | Automation Enthusiast
+**Galeka**
+AI Builder | Automation Enthusiast
 
 ### ⭐ Support
 If this project helped you:
