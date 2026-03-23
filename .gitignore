@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+
+# Env file (PENTING)
+.env
+
+# Database / vector
+vectordb/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
