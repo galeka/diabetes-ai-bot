@@ -31,7 +31,7 @@ Bot ini dirancang untuk:
 - Tetap aman dengan disclaimer medis
 
 ### 👀 Demo
-<img width="488" height="1314" alt="image" src="https://github.com/user-attachments/assets/24a0c748-912f-4c3e-b5f8-3ac426603f4e" />
+<img width="490" height="1298" alt="image" src="https://github.com/user-attachments/assets/c41841ee-f7e9-49cc-9116-04fdffa4576f" />
 
 
 ---
