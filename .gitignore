@@ -18,3 +18,9 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# archive
+data/
+old/
+old 2/
+references/
