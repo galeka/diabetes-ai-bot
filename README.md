@@ -31,8 +31,8 @@ Bot ini dirancang untuk:
 - Tetap aman dengan disclaimer medis
 
 ### 👀 Demo
-![Bot Demo Placeholder](https://via.placeholder.com/600x300?text=Telegram+Bot+Screenshot+Here)
-*(Tambahkan GIF/Screenshot chat bot Telegram di sini)*
+<img width="488" height="1314" alt="image" src="https://github.com/user-attachments/assets/24a0c748-912f-4c3e-b5f8-3ac426603f4e" />
+
 
 ---
 
@@ -194,10 +194,6 @@ This bot is designed to:
 - Provide answers based on scientific references (ADA, WHO, PubMed)
 - Be easy to understand for general users
 - Maintain safety with medical disclaimers
-
-### 👀 Demo
-![Bot Demo Placeholder](https://via.placeholder.com/600x300?text=Telegram+Bot+Screenshot+Here)
-*(Add your Telegram bot screenshot/GIF here)*
 
 ---
 
